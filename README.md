@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Markdown
+
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
+
+# Estilos de texto.
+
+**Palabra en negrita**
+
+*Palabra en cursiva*
+
+~~Este texto esta equivocado~~
+
+Mi primera linea de un código Python:
+```
+print('hola mundo')
+```
+
+### Listas
+
+- JavaSript
+* Python
++ Goland
+
+Cómo agregar un link externo en github
+
+El markdown lo aprendí en [Tecnolochicas](https:\\tecnolochicas.mx)
