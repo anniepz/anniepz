@@ -42,4 +42,4 @@ print('hola mundo')
 
 Cómo agregar un link externo en github
 
-El markdown lo aprendí en [Tecnolochicas](https:\\tecnolochicas.mx)
+El markdown lo aprendí en [Tecnolochicas](https://tecnolochicas.mx)
